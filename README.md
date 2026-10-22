@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Parsa Dorostkar
 
-<!--
-**parsadorostkar/parsadorostkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my skills in **Data Science, Machine Learning, and AI-powered systems** through practical projects.
 
-Here are some ideas to get you started:
+### Current Focus
+- Python and data analysis
+- Demand forecasting and inventory optimization
+- Building reliable, data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+**[Smart Inventory Intelligence](https://github.com/parsadorostkar/Smart-Inventory-Intelligence)**
+
+An inventory intelligence project focused on demand analysis, forecasting, and inventory decision-making.
+
+### Goals
+- Develop strong foundations in data science and machine learning
+- Build practical projects with measurable results
+- Improve software quality, testing, and documentation
+
+---
+
+*Learning by building, testing, and improving real-world projects.*
