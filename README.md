@@ -1,22 +1,21 @@
 # Hi, I'm Parsa Dorostkar
 
-I'm building my skills in **Data Science, Machine Learning, and AI-powered systems** through practical projects.
+Data Science | Artificial Intelligence | Intelligent Systems
 
-### Current Focus
-- Python and data analysis
-- Demand forecasting and inventory optimization
-- Building reliable, data-driven applications
+Focused on the intersection of data, intelligence, and technology — exploring ideas, developing technical expertise, and building solutions with real-world relevance.
 
-### Featured Project
-**[Smart Inventory Intelligence](https://github.com/parsadorostkar/Smart-Inventory-Intelligence)**
+Driven by analytical thinking, continuous advancement, and the pursuit of technical excellence.
 
-An inventory intelligence project focused on demand analysis, forecasting, and inventory decision-making.
+Areas of Interest
 
-### Goals
-- Develop strong foundations in data science and machine learning
-- Build practical projects with measurable results
-- Improve software quality, testing, and documentation
+Data Science & Machine Learning
 
----
+Artificial Intelligence
 
-*Learning by building, testing, and improving real-world projects.*
+Intelligent Systems & Applied Research
+
+Data-Driven Problem Solving
+
+Philosophy
+
+Turning knowledge into capability, and capability into meaningful solutions.
