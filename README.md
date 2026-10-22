@@ -1,4 +1,4 @@
-## Hi, I`m Parsa Dorostkar
+## Hi, I'm Parsa Dorostkar
 
 **Data Science | Artificial Intelligence | Intelligent Systems**
 
